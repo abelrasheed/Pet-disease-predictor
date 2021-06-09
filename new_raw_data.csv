@@ -1,0 +1,41 @@
+Canine Distemper,fever,vomiting,paralysis,reduced appetite,coughing,discharge from eyes,hyperkeratosis (hardening of the paw pads and nose),pneumonia
+Canine Distemper,fever,nasal discharge,lethargy,reduced appetite,hyperkeratosis (hardening of the paw pads and nose),sneezing,coughing,vomiting,diarrhea,depression,discharge from eyes
+Canine Distemper,fever,nasal discharge,lethargy,discharge from eyes,sneezing,coughing,difficulty in breathing,vomiting,diarrhea,reduced appetite,hyperkeratosis (hardening of the paw pads and nose),pneumonia ,pain,skin sores
+Canine Distemper,fever,nasal discharge,discharge from eyes,reduced appetite,lethargy,vomiting,diarrhea,coughing,difficulty in breathing,inflammation - eyes,hyperkeratosis (hardening of the paw pads and nose)
+Canine Distemper,fever,nasal discharge,discharge from eyes,lethargy,anorexia,coughing,vomiting,diarrhea,hyperkeratosis (hardening of the paw pads and nose)
+Canine Distemper,fever,seizures,diarrhea,vomiting,discharge from eyes,nasal discharge,coughing,inflammation - eyes,hyperkeratosis (hardening of the paw pads and nose),anorexia
+Canine parvovirus,fever,lethargy,vomiting,diarrhea,dehydration,weight loss
+Canine parvovirus,diarrhea,bloody stool,vomiting,fever,lethargy,anorexia,weight loss,weakness,dehydration,depression
+Canine parvovirus,diarrhea,bloody stool,fever,anorexia,weight loss,dehydration,vomiting,inflammation - eyes,inflammation - mouth,rapid heart beat,pain
+Canine parvovirus,vomiting,fever,bloody stool,diarrhea,lethargy
+Canine parvovirus,lethargy,fever,depression,bloody stool,diarrhea,vomiting,reduced appetite
+Heartworm,coughing,fatigue,reduced appetite,weight loss,swollen belly,laziness
+Heartworm,coughing,lethargy,weight loss,swollen belly,difficulty in breathing,laziness
+Heartworm,coughing,fatigue,difficulty in breathing,anemia,rapid heart beat ,laziness
+Heartworm,coughing,weight loss,reduced appetite,difficulty in breathing,swollen belly,laziness,fainting
+Heartworm,coughing,weight loss,reduced appetite,difficulty in breathing,laziness,swollen belly,fatigue
+Kennel Cough,coughing,nasal discharge,sneezing,lethargy,fever,reduced appetite,reverse sneezing
+Kennel Cough,coughing,difficulty in breathing,weakness,sneezing,gagging,vomiting,discharge from eyes,nasal discharge,fever,lethargy,reverse sneezing
+Kennel Cough,coughing,difficulty in breathing,weakness,reverse sneezing,fever,discharge from eyes,nasal discharge,gagging
+Kennel Cough,coughing,gagging,lethargy,fever,sneezing,reverse sneezing
+Kennel Cough,coughing,sneezing,nasal discharge,discharge from eyes,reverse sneezing,gagging,fever
+Lyme Disease,fever,lameness,reduced appetite,swollen joints,laziness
+Lyme Disease,fever,swollen joints,reduced appetite,laziness,lethargy,depression,stiffness,limping,lameness
+Lyme Disease,fever,lameness,swollen joints,limping,reduced appetite,difficulty in breathing,depression
+Lyme Disease,fever,lameness,stiffness,swollen joints,fatigue,limping,increased thirst ,increased urination
+Lyme Disease,limping,swollen joints,reduced appetite,lameness,laziness,increased urination,increased thirst 
+Rabies,paralysis,excess salivation,aggression,reduced appetite,foaming at mouth,difficulty in swallowing,behavioral changes,irritable,seizures,lameness,fever,pica,hydrophobia
+Rabies,lethargy,fever,highly excitable,vomiting,excess salivation,foaming at mouth,difficulty in swallowing,paralysis,behavioral changes,irritable,aggression,pica
+Rabies,behavioral changes,hydrophobia,aggression,paralysis,lameness,excess salivation,foaming at mouth,difficulty in swallowing,irritable,highly excitable,pica
+Rabies,highly excitable,behavioral changes,fever,aggression,reduced appetite,paralysis,seizures,foaming at mouth,excess salivation,lameness,pica
+Rabies,pica,behavioral changes,aggression,paralysis,lameness,fever,seizures,hydrophobia,highly excitable,excess salivation,foaming at mouth,difficulty in swallowing
+Leptospirosis,fever,lethargy,dehydration,muscular pain,joint pain,increased urination,increased thirst ,reduced appetite,vomiting,diarrhea,shivering
+Leptospirosis,fever,shivering,dehydration,reduced appetite,laziness,muscular pain,depression,weakness,increased thirst ,increased urination,vomiting,difficulty in breathing,nasal discharge,coughing,bloody stool,jaundice
+Leptospirosis,fever,shivering,muscular pain,increased thirst ,dehydration,reduced appetite,lethargy,jaundice,vomiting,diarrhea,increased urination
+Leptospirosis,fever,vomiting,stiffness,diarrhea,reduced appetite,weakness,depression,muscular pain,jaundice,increased thirst ,dehydration
+Leptospirosis,fever,jaundice,muscular pain,vomiting,difficulty in breathing,diarrhea,bloody stool,increased thirst ,reduced appetite,limping
+Kidney disease,lethargy,weight loss,reduced appetite,vomiting,increased thirst,decreased thirst,decreased urination,increased urination,lameness,blood in urine,seizures,pale gums,ulcers in mouth,bad breath
+Kidney disease,increased thirst,increased urination,vomiting,diarrhea,weight loss,pale gums,ulcers in mouth,weakness,bad breath
+Kidney disease,increased thirst,increased urination,vomiting,lethargy,weakness,weight loss,ulcers in mouth,pale gums
+Kidney disease,reduced appetite,weight loss,bad breath,diarrhea,vomiting,depression,increased urination,increased thirst,ulcers in mouth
+Kidney disease,increased urination,increased thirst,vomiting,diarrhea,depression,reduced appetite,weight loss,pale gums,weakness,dehydration,ulcers in mouth

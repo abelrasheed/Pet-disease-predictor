@@ -1,0 +1,3 @@
+
+* Implement random forest
+* Wighted probabilities for predictions instead of single output
